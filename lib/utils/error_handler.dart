@@ -1,1 +1,3 @@
-/// mohamed Naser
+class ErrorHandle{
+  static String Naser = 'Hamdy sappaaq';
+}
