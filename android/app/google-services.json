@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949083372025",
+    "project_id": "todo-f223b",
+    "storage_bucket": "todo-f223b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949083372025:android:2cb6cfcc1e38b3cdad2528",
+        "android_client_info": {
+          "package_name": "com.example.mycourse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAseCI5xJR4OadQTDpTdOv6dkBExegKl-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

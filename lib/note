@@ -1,0 +1,17 @@
+ on runtime
+ on sqlflite
+ login-register --> firebase
+ sqlflite --> firebase
+ ui --> getX
+
+
+
+----------------errors ----------------
+- email is exist
+- internet connection
+- email , password validator
+- states (loading,error,navigate)
+- login error
+- not found user
+----------------------------
+
